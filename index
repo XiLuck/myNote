@@ -13,12 +13,16 @@
     
 文件管理模块
   云服务
+  影视收藏
+  
   
 远程桌面模块
 api模块
-
+收藏夹管理系统
+工具模块
  
 权限实现模块
+ 信息管理模块
   笔记表
     noteid 
     noteidSize
@@ -33,6 +37,8 @@ api模块
     textSize
     textColor
     list child
+    //链接
+    link
   账户密码笔记
     username
     password
