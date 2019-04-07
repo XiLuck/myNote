@@ -1,4 +1,36 @@
-用户表
-角色表
-  权限表
-笔记表
+用户管理模块
+  user
+    userid
+    loginaccount
+    password
+  role
+    roleid
+  permission
+    permissionsid
+   关联表
+    user_role
+    role_permission
+    
+    
+权限实现模块
+  笔记表
+    noteid 
+    noteidSize
+    noteidColor
+    textHead
+    textHeadSize
+    textHeadColor
+    textShow
+    textShowSize
+    textShowColor
+    text
+    textSize
+    textColor
+    list child
+  账户密码笔记
+    username
+    password
+    app
+    url
+    instructions
+    
