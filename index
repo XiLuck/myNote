@@ -11,7 +11,8 @@
     user_role
     role_permission
     
-    
+文件管理模块
+  云服务
 权限实现模块
   笔记表
     noteid 
